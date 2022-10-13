@@ -1,0 +1,41 @@
+{
+  "scanned": true,
+  "reminders": {
+    "exemplos.md": [
+      {
+        "title": "#tarefas [blog] escolher o tema do próximo post ⏫",
+        "time": "2022-10-16",
+        "rowNumber": 3
+      },
+      {
+        "title": "#tarefas [blog] fazer os prints para [[usando o obsidian para gerenciar suas tarefas|post sobre tarefas]] 🛫 2022-09-08",
+        "time": "2022-09-09",
+        "rowNumber": 9
+      },
+      {
+        "title": "#tarefas [blog] redigir o texto para [[usando o obsidian para gerenciar suas tarefas|post sobre tarefas]]",
+        "time": "2022-09-09",
+        "rowNumber": 10
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
